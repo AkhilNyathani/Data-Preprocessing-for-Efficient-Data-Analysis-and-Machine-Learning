@@ -1,0 +1,11 @@
+Country,Age,Salary,Medical Insurance
+India,44,72000,No
+Nepal,27,48000,Yes
+Tibet,30,54000,No
+Nepal,38,61000,No
+Tibet,40,,Yes
+India,35,58000,Yes
+Nepal,,52000,No
+India,48,79000,Yes
+Tibet,50,83000,No
+India,37,67000,Yes
