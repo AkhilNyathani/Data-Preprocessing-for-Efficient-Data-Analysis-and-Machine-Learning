@@ -10,12 +10,11 @@ The project demonstrates preprocessing steps such as data cleaning, handling mis
 
 👤 Team Member
 
-Sai (Individual Project)
+Akhil Nyathani (Individual Project)
 
 🚀 Deployment Link
 
 Not deployed (Academic Minor Project)
-(Optional: Add a link here if deployed in the future)
 
 🛠️ Technologies Used
 
@@ -29,13 +28,6 @@ Scikit-learn
 
 Jupyter Notebook
 
-📂 Project Structure (Optional but Recommended)
-├── data/
-├── notebooks/
-├── preprocessing_scripts/
-├── results/
-├── README.md
-
 🎯 Project Outcome
 
 Improved data quality
@@ -43,11 +35,3 @@ Improved data quality
 Structured and clean datasets
 
 Better readiness for data analysis and machine learning models
-
-📌 Future Enhancements
-
-Automation of preprocessing pipeline
-
-Integration with machine learning models
-
-Deployment as a web application or API
